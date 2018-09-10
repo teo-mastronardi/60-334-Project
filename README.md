@@ -1,1 +1,1 @@
-# 60-334-Project
+# Library System Database Project
